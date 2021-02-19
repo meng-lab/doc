@@ -1,23 +1,39 @@
-#######################################################################################################################################
-2021
+***************************
+Key Papers ****************
+***************************
+
 RMDisease: a database of genetic variants that affect RNA modifications, with implications for epitranscriptome pathogenesis
-Nucleic acids research
+Nucleic acids research, 2021
 
 m6A-Atlas: a comprehensive knowledgebase for unraveling the N6-methyladenosine (m6A) epitranscriptome
-Nucleic Acids Research
+Nucleic Acids Research, 2021
 
-#######################################################################################################################################
-2020
 MetaTX: deciphering the distribution of mRNA-related features in the presence of isoform ambiguity, with applications in epitranscriptome analysis
-Bioinformatics
+Bioinformatics, 2020
 
 m7GHub: deciphering the location, regulation and pathogenesis of internal mRNA N7-methylguanosine (m7G) sites in human
-Bioinformatics 36 (11), 3528-3536
+Bioinformatics, 2020
 
 Bioinformatics approaches for deciphering the epitranscriptome: Recent progress and emerging topics
-Computational and structural biotechnology journal 18, 1587
+Computational and structural biotechnology journal, 2020
 
-#######################################################################################################################################
-2019
 WHISTLE: a high-accuracy map of the human N6-methyladenosine (m6A) epitranscriptome predicted using a machine learning approach
-Nucleic Acids Research
+Nucleic Acids Research, 2016
+
+
+
+***************************
+Recent Papers *************
+***************************
+
+m6AmPred: Identifying RNA N6,2’-O-dimethyladenosine (m6Am) sites based on sequence-derived information
+Methods, 2021
+
+m5UPred: a web server for the prediction of RNA 5-methyluridine (m5U) sites from sequences
+Molecular Therapy - Nucleic Acids, 2020
+
+m6Areader: epitranscriptome target prediction and functional characterization of N6-Methyladenosine (m6A)
+Frontiers in Cell and Developmental Biology, 2020
+
+Predicting RNA methylation status from gene expression data using classification and regression methods
+Evolutionary Bioinformatics, 2020
