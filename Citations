@@ -1,39 +1,23 @@
 #######################################################################################################################################
-Publications should be cited in our new submissions
-Up to 10 publications in the past two years
+2021
+RMDisease: a database of genetic variants that affect RNA modifications, with implications for epitranscriptome pathogenesis
+Nucleic acids research
+
+m6A-Atlas: a comprehensive knowledgebase for unraveling the N6-methyladenosine (m6A) epitranscriptome
+Nucleic Acids Research
 
 #######################################################################################################################################
 2020
 MetaTX: deciphering the distribution of mRNA-related features in the presence of isoform ambiguity, with applications in epitranscriptome analysis
-Y Wang, K Chen, Z Wei, F Coenen, J Su, J Meng
 Bioinformatics
 
-RMDisease: a database of genetic variants that affect RNA modifications, with implications for epitranscriptome pathogenesis
-K Chen, B Song, Y Tang, Z Wei, Q Xu, J Su, JP de Magalhães, DJ Rigden, ...
-Nucleic acids research
-
-m6A-Atlas: a comprehensive knowledgebase for unraveling the N6-methyladenosine (m6A) epitranscriptome
-Y Tang, K Chen, B Song, J Ma, X Wu, Q Xu, Z Wei, J Su, G Liu, R Rong, ...
-Nucleic Acids Research
-
 m7GHub: deciphering the location, regulation and pathogenesis of internal mRNA N7-methylguanosine (m7G) sites in human
-B Song, Y Tang, K Chen, Z Wei, R Rong, Z Lu, J Su, JP de Magalhães, ...
 Bioinformatics 36 (11), 3528-3536
 
 Bioinformatics approaches for deciphering the epitranscriptome: Recent progress and emerging topics
-L Liu, B Song, J Ma, Y Song, SY Zhang, Y Tang, X Wu, Z Wei, K Chen, ...
 Computational and structural biotechnology journal 18, 1587
 
 #######################################################################################################################################
 2019
-FunDMDeep-m6A: identification and prioritization of functional differential m6A methylation genes
-SY Zhang, SW Zhang, XN Fan, T Zhang, J Meng, Y Huang
-Bioinformatics 35 (14), i90-i98
-
-Global analysis of N6-methyladenosine functions and its disease association using deep learning and network-based methods
-SY Zhang, SW Zhang, XN Fan, J Meng, Y Chen, SJ Gao, Y Huang
-PLOS Computational Biology 15 (1), e1006663
-
 WHISTLE: a high-accuracy map of the human N6-methyladenosine (m6A) epitranscriptome predicted using a machine learning approach
-K Chen, Z Wei, Q Zhang, X Wu, R Rong, Z Lu, J Su, JP de Magalhães, ...
 Nucleic Acids Research
